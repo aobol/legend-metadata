@@ -1,0 +1,12 @@
+[submodule "hardware/detectors"]
+	path = hardware/detectors
+	url = git@github.com:legend-exp/legend-detectors
+[submodule "hardware/configuration"]
+	path = hardware/configuration
+	url = git@github.com:legend-exp/legend-hardware-config
+[submodule "dataprod/overrides"]
+	path = dataprod/overrides
+	url = git@github.com:legend-exp/legend-dataflow-overrides
+[submodule "dataprod/config"]
+	path = dataprod/config
+	url = git@github.com:legend-exp/legend-dataflow-config
