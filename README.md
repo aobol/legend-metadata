@@ -11,7 +11,7 @@ The various sub-repositories are linked via [Git submodules](https://git-scm.com
   - `config` → [legend-dataflow-config](https://github.com/legend-exp/legend-dataflow-config)
   - `overrides` → [legend-dataflow-overrides](https://github.com/legend-exp/legend-dataflow-overrides)
 - `hardware/`
-  - `configuration` → [legend-hardware-configuration](https://github.com/legend-exp/legend-hardware-configuration)
+  - `configuration` → [legend-hardware-config](https://github.com/legend-exp/legend-hardware-config)
   - `detectors` → [legend-detectors](https://github.com/legend-exp/legend-detectors)
   
 To access the metadata, usage of existing helpers (listed at the bottom of this page) is generally recommended.
