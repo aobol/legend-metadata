@@ -36,7 +36,8 @@ $ git clone --recursive git@github.com:legend-exp/legend-metadata
 If you already cloned the repository without the flag, you can still initialize and clone the submodules as a separate step:
 
 ```console
-$ git submodule --init update
+$ git submodule init
+$ git submodule update
 ```
 
 ### Keeping metadata in sync
