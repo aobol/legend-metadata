@@ -65,7 +65,7 @@ To pull from all submodules at the same time:
 
 ```console
 $ cd legend-metadata
-$ git pull --recurse-submodules
+$ git submodule update --recursive --remote
 ```
 
 **Note:** if you think the version of a submodule should be updated, consider submitting a Pull Request.
