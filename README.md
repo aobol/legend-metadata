@@ -61,6 +61,13 @@ $ cd dataprod/config
 $ git checkout [tag | commit]
 ```
 
+To pull from all submodules at the same time:
+
+```console
+$ cd legend-metadata
+$ git pull --recurse-submodules
+```
+
 **Note:** if you think the version of a submodule should be updated, consider submitting a Pull Request.
   
 ## Accessors
