@@ -68,7 +68,8 @@ $ cd legend-metadata
 $ git submodule update --recursive --remote
 ```
 
-**Note:** if you think the version of a submodule should be updated, consider submitting a Pull Request.
+> **Note**
+> If you think the version of a submodule should be updated, consider submitting a Pull Request.
   
 ## Accessors
 - From Python: [pylegendmeta](https://github.com/legend-exp/pylegendmeta)
